@@ -8,6 +8,12 @@
 
 **注意：v1.0.7版本开始，修改了columns的prop属性为key，label属性为title，修改selection-type为selectable，添加了select-type属性**
 
+#### 作者系列视频课程：
+
+[Vue技术栈开发实战(26课时)](https://segmentfault.com/ls/1650000016221751?utm_source=recommend_web-live-new)
+
+[TypeScript完全解读(26课时)](https://segmentfault.com/ls/1650000018455856?utm_source=recommend_web-live-new)
+
 ## Example
 
 ![Example](./example/example.gif)
